@@ -1,0 +1,7 @@
+.el-carousel__mask {
+     background-color: transparent;
+ }
+
+.el-carousel__container {
+    height: 80%;
+}
